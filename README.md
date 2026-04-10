@@ -78,13 +78,6 @@ webchange-detector/
 │── vite.config.ts
 ```
 
----
-
-## 🌍 Live Demo
-
-👉 https://webchange-detector-ten.vercel.app/
-
----
 
 ## 🧹 Improvements Made
 
